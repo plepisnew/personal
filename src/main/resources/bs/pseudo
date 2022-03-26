@@ -1,0 +1,8 @@
+void printTree(Node node){
+    if(!(node == null)){
+        print(node.value);
+    }
+    printTree(node.left);
+    printTree(node.right);
+
+}
