@@ -1,3 +1,3 @@
 # *Teleports behind you*
 # Nothing personal, kid
-![](https://prnt.sc/X4b-UqrBcuLw)
+![](https://ibb.co/3NCfFJn)
