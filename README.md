@@ -1,3 +1,3 @@
 # *Teleports behind you*
 # Nothing personal, kid
-![](https://ibb.co/3NCfFJn)
+![](https://raw.githubusercontent.com/plepisnew/personal/main/.github/images/shiba.png)
